@@ -1,0 +1,82 @@
+.name-container{
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500;
+  font-size: 18px;
+  line-height: 123.6%;
+  
+  }
+  .title-container{
+      margin-top: 5px;
+      color: #767676;
+      font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  /* identical to box height, or 160% */
+  margin-left: auto;
+  margin-right: auto;
+  text-transform: capitalize;
+  }
+  .social-links{
+     margin-top: 20px;
+     margin-left: auto;
+     margin-right: auto;
+  }
+  .display-picture{
+    width: 100px;
+    height: 100px;
+    background-color: #F0F0F6;
+    border-radius: 50%;
+    margin: 0 auto;
+    background-image: url("../../assets/dp.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 2px solid palevioletred;
+    padding: 2px;
+}
+.side-nav{
+    text-align: center;
+    
+}
+.menulogo{
+    height: 70px;
+    width: 200px;
+
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: 20px auto;
+}
+.mini{
+    width: 100px;
+    
+
+    margin: 0 auto;
+}
+.mini p{
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0;
+}
+.posts{
+    border-right: 1px solid gray;
+}
+.followers{
+    border-right: 1px solid gray;
+}
+.social-ul li{
+    list-style: none;
+    text-align: left;
+}
+.menu-item{
+    margin-left: 10px;
+    vertical-align: super;
+ 
+}
+.navlink{
+    text-decoration: none;
+}

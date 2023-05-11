@@ -1,0 +1,22 @@
+.landing-container{
+    display: flex;
+
+}
+.sidenav{
+    width: 20%;
+    background-color: #efefef;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+.content-container{
+    width: 75%;
+   margin-left: 50px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+
+}
+.content{
+    margin-top: 35px;
+}

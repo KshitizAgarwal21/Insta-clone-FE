@@ -1,0 +1,42 @@
+.feed-content{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: scroll;
+    height: 60vh;
+}
+.feeds{
+  /* display: flex;
+    flex-wrap: wrap; */
+   
+}
+.feed-item{
+    margin-left: 20px;
+}
+.feed-item img{
+    max-height: 500px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.feed{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    display: inline-block;
+}
+.feed-action{
+    display: flex;
+    justify-content: space-between;
+}
+.feed-account-name{
+    vertical-align: super;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.feed-account-details{
+    display: flex;
+    margin-top: 12px;
+    margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+header{
+    margin-top: 10px;
+}
+.custom-input{
+    border: 1px solid #efefef;
+    height: 30px;
+    width: 200px;
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+}
+.add{
+    background-color: palevioletred;
+    border: none;
+    height: 35px;
+    border-radius: 5px;
+    color: #fff;
+   
+    vertical-align: bottom;
+}
