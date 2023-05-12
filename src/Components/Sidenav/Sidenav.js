@@ -29,7 +29,7 @@ export default function Sidenav() {
           <ul class="social-ul">
             <NavLink
               className="navlink"
-              to="/feed"
+              to="/"
               style={({ isActive, isPending }) => {
                 return {
                   color: isActive ? "palevioletred" : "black",

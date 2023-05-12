@@ -10,7 +10,7 @@ export default function Header() {
           <div>
             <input
               type="text"
-              placeholder="🔍     Search"
+              placeholder="&nbsp;&nbsp;🔍     Search"
               className="custom-input"
             />
           </div>

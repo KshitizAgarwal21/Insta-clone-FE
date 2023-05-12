@@ -1,0 +1,14 @@
+.explore-content{
+  
+    overflow: scroll;
+    height: 60vh;
+}
+.explore-item{
+   margin: 0 auto;
+   width: 50%;
+}
+.explore-item img{
+    max-height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
